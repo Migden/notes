@@ -1,0 +1,2 @@
+
+This challenge supplied us with a USB file, this file had a deleted file, we recovered it utilising `testdisk`. Inside was an image, this image was created by a user, which was to be submitted as the flag.

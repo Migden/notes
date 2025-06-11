@@ -1,0 +1,2 @@
+
+This challenge involved an authenticated login, by sending a request with the `OPTIONS` method we got the password. This was only because the website would send the password not because it was a vulnerability (stupid challenge)
